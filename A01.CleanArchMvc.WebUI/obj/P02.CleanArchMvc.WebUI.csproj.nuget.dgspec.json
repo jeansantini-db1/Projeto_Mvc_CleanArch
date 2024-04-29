@@ -1,0 +1,309 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P02.CleanArchMvc.WebUI\\P02.CleanArchMvc.WebUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P00.CleanArchMvc.Domain\\P00.CleanArchMvc.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P00.CleanArchMvc.Domain\\P00.CleanArchMvc.Domain.csproj",
+        "projectName": "P00.CleanArchMvc.Domain",
+        "projectPath": "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P00.CleanArchMvc.Domain\\P00.CleanArchMvc.Domain.csproj",
+        "packagesPath": "C:\\Users\\jean.santini\\.nuget\\packages\\",
+        "outputPath": "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P00.CleanArchMvc.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jean.santini\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/Itsseg/_packaging/ItsSeg.RH.SharedLibs%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.109\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P01.CleanArchMvc.Application\\P01.CleanArchMvc.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P01.CleanArchMvc.Application\\P01.CleanArchMvc.Application.csproj",
+        "projectName": "P01.CleanArchMvc.Application",
+        "projectPath": "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P01.CleanArchMvc.Application\\P01.CleanArchMvc.Application.csproj",
+        "packagesPath": "C:\\Users\\jean.santini\\.nuget\\packages\\",
+        "outputPath": "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P01.CleanArchMvc.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jean.santini\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/Itsseg/_packaging/ItsSeg.RH.SharedLibs%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P00.CleanArchMvc.Domain\\P00.CleanArchMvc.Domain.csproj": {
+                "projectPath": "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P00.CleanArchMvc.Domain\\P00.CleanArchMvc.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.109\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P02.CleanArchMvc.Infra.Data\\P02.CleanArchMvc.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P02.CleanArchMvc.Infra.Data\\P02.CleanArchMvc.Infra.Data.csproj",
+        "projectName": "P02.CleanArchMvc.Infra.Data",
+        "projectPath": "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P02.CleanArchMvc.Infra.Data\\P02.CleanArchMvc.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\jean.santini\\.nuget\\packages\\",
+        "outputPath": "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P02.CleanArchMvc.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jean.santini\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/Itsseg/_packaging/ItsSeg.RH.SharedLibs%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P00.CleanArchMvc.Domain\\P00.CleanArchMvc.Domain.csproj": {
+                "projectPath": "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P00.CleanArchMvc.Domain\\P00.CleanArchMvc.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.109\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P02.CleanArchMvc.Infra.IoC\\P02.CleanArchMvc.Infra.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P02.CleanArchMvc.Infra.IoC\\P02.CleanArchMvc.Infra.IoC.csproj",
+        "projectName": "P02.CleanArchMvc.Infra.IoC",
+        "projectPath": "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P02.CleanArchMvc.Infra.IoC\\P02.CleanArchMvc.Infra.IoC.csproj",
+        "packagesPath": "C:\\Users\\jean.santini\\.nuget\\packages\\",
+        "outputPath": "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P02.CleanArchMvc.Infra.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jean.santini\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/Itsseg/_packaging/ItsSeg.RH.SharedLibs%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P00.CleanArchMvc.Domain\\P00.CleanArchMvc.Domain.csproj": {
+                "projectPath": "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P00.CleanArchMvc.Domain\\P00.CleanArchMvc.Domain.csproj"
+              },
+              "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P01.CleanArchMvc.Application\\P01.CleanArchMvc.Application.csproj": {
+                "projectPath": "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P01.CleanArchMvc.Application\\P01.CleanArchMvc.Application.csproj"
+              },
+              "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P02.CleanArchMvc.Infra.Data\\P02.CleanArchMvc.Infra.Data.csproj": {
+                "projectPath": "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P02.CleanArchMvc.Infra.Data\\P02.CleanArchMvc.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.109\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P02.CleanArchMvc.WebUI\\P02.CleanArchMvc.WebUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P02.CleanArchMvc.WebUI\\P02.CleanArchMvc.WebUI.csproj",
+        "projectName": "P02.CleanArchMvc.WebUI",
+        "projectPath": "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P02.CleanArchMvc.WebUI\\P02.CleanArchMvc.WebUI.csproj",
+        "packagesPath": "C:\\Users\\jean.santini\\.nuget\\packages\\",
+        "outputPath": "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P02.CleanArchMvc.WebUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jean.santini\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/Itsseg/_packaging/ItsSeg.RH.SharedLibs%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P02.CleanArchMvc.Infra.IoC\\P02.CleanArchMvc.Infra.IoC.csproj": {
+                "projectPath": "C:\\Treinamentos\\Clean Architecture Essencial\\Projeto_Mvc_Dependencias\\P02.CleanArchMvc.Infra.IoC\\P02.CleanArchMvc.Infra.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.109\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

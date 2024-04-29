@@ -1,0 +1,12 @@
+C:\Treinamentos\Clean Architecture Essencial\Projeto_Mvc_Dependencias\P03.CleanArchMvc.Domain\bin\Debug\net5.0\P03.CleanArchMvc.Domain.deps.json
+C:\Treinamentos\Clean Architecture Essencial\Projeto_Mvc_Dependencias\P03.CleanArchMvc.Domain\bin\Debug\net5.0\P03.CleanArchMvc.Domain.dll
+C:\Treinamentos\Clean Architecture Essencial\Projeto_Mvc_Dependencias\P03.CleanArchMvc.Domain\bin\Debug\net5.0\P03.CleanArchMvc.Domain.pdb
+C:\Treinamentos\Clean Architecture Essencial\Projeto_Mvc_Dependencias\P03.CleanArchMvc.Domain\obj\Debug\net5.0\P03.CleanArchMvc.Domain.csproj.AssemblyReference.cache
+C:\Treinamentos\Clean Architecture Essencial\Projeto_Mvc_Dependencias\P03.CleanArchMvc.Domain\obj\Debug\net5.0\P03.CleanArchMvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Treinamentos\Clean Architecture Essencial\Projeto_Mvc_Dependencias\P03.CleanArchMvc.Domain\obj\Debug\net5.0\P03.CleanArchMvc.Domain.AssemblyInfoInputs.cache
+C:\Treinamentos\Clean Architecture Essencial\Projeto_Mvc_Dependencias\P03.CleanArchMvc.Domain\obj\Debug\net5.0\P03.CleanArchMvc.Domain.AssemblyInfo.cs
+C:\Treinamentos\Clean Architecture Essencial\Projeto_Mvc_Dependencias\P03.CleanArchMvc.Domain\obj\Debug\net5.0\P03.CleanArchMvc.Domain.csproj.CoreCompileInputs.cache
+C:\Treinamentos\Clean Architecture Essencial\Projeto_Mvc_Dependencias\P03.CleanArchMvc.Domain\obj\Debug\net5.0\P03.CleanArchMvc.Domain.dll
+C:\Treinamentos\Clean Architecture Essencial\Projeto_Mvc_Dependencias\P03.CleanArchMvc.Domain\obj\Debug\net5.0\refint\P03.CleanArchMvc.Domain.dll
+C:\Treinamentos\Clean Architecture Essencial\Projeto_Mvc_Dependencias\P03.CleanArchMvc.Domain\obj\Debug\net5.0\P03.CleanArchMvc.Domain.pdb
+C:\Treinamentos\Clean Architecture Essencial\Projeto_Mvc_Dependencias\P03.CleanArchMvc.Domain\obj\Debug\net5.0\ref\P03.CleanArchMvc.Domain.dll

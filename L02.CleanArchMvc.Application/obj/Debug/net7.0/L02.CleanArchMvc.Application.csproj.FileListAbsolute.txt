@@ -1,0 +1,15 @@
+C:\Treinamentos\Clean Architecture Essencial\Projeto_Mvc_CleanArch\L02.CleanArchMvc.Application\bin\Debug\net7.0\L02.CleanArchMvc.Application.deps.json
+C:\Treinamentos\Clean Architecture Essencial\Projeto_Mvc_CleanArch\L02.CleanArchMvc.Application\bin\Debug\net7.0\L02.CleanArchMvc.Application.dll
+C:\Treinamentos\Clean Architecture Essencial\Projeto_Mvc_CleanArch\L02.CleanArchMvc.Application\bin\Debug\net7.0\L02.CleanArchMvc.Application.pdb
+C:\Treinamentos\Clean Architecture Essencial\Projeto_Mvc_CleanArch\L02.CleanArchMvc.Application\bin\Debug\net7.0\L03.CleanArchMvc.Domain.dll
+C:\Treinamentos\Clean Architecture Essencial\Projeto_Mvc_CleanArch\L02.CleanArchMvc.Application\bin\Debug\net7.0\L03.CleanArchMvc.Domain.pdb
+C:\Treinamentos\Clean Architecture Essencial\Projeto_Mvc_CleanArch\L02.CleanArchMvc.Application\obj\Debug\net7.0\L02.CleanArchMvc.Application.csproj.AssemblyReference.cache
+C:\Treinamentos\Clean Architecture Essencial\Projeto_Mvc_CleanArch\L02.CleanArchMvc.Application\obj\Debug\net7.0\L02.CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Treinamentos\Clean Architecture Essencial\Projeto_Mvc_CleanArch\L02.CleanArchMvc.Application\obj\Debug\net7.0\L02.CleanArchMvc.Application.AssemblyInfoInputs.cache
+C:\Treinamentos\Clean Architecture Essencial\Projeto_Mvc_CleanArch\L02.CleanArchMvc.Application\obj\Debug\net7.0\L02.CleanArchMvc.Application.AssemblyInfo.cs
+C:\Treinamentos\Clean Architecture Essencial\Projeto_Mvc_CleanArch\L02.CleanArchMvc.Application\obj\Debug\net7.0\L02.CleanArchMvc.Application.csproj.CoreCompileInputs.cache
+C:\Treinamentos\Clean Architecture Essencial\Projeto_Mvc_CleanArch\L02.CleanArchMvc.Application\obj\Debug\net7.0\L02.CleanArchMvc.Application.csproj.CopyComplete
+C:\Treinamentos\Clean Architecture Essencial\Projeto_Mvc_CleanArch\L02.CleanArchMvc.Application\obj\Debug\net7.0\L02.CleanArchMvc.Application.dll
+C:\Treinamentos\Clean Architecture Essencial\Projeto_Mvc_CleanArch\L02.CleanArchMvc.Application\obj\Debug\net7.0\refint\L02.CleanArchMvc.Application.dll
+C:\Treinamentos\Clean Architecture Essencial\Projeto_Mvc_CleanArch\L02.CleanArchMvc.Application\obj\Debug\net7.0\L02.CleanArchMvc.Application.pdb
+C:\Treinamentos\Clean Architecture Essencial\Projeto_Mvc_CleanArch\L02.CleanArchMvc.Application\obj\Debug\net7.0\ref\L02.CleanArchMvc.Application.dll

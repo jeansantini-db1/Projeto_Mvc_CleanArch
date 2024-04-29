@@ -1,0 +1,24 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/Highlighting/AnalysisEnabled/@EntryValue">VISIBLE_FILES</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9ede3c16_002Dd0d3_002D4e28_002Da4f1_002Db8f89eb53d29/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CreateCategory_WithValidParameters_ResultObjectValidState" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::E3EDBDC0-04CC-4FFA-84C6-368B036AB894::net7.0::T00.CleanArchMvc.Tests.CategoryUnitTest1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E3EDBDC0-04CC-4FFA-84C6-368B036AB894::net7.0::T00.CleanArchMvc.Tests.ProductUnitTest1.CreateProduct_WithValidParameters_ResultObjectValidState&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E3EDBDC0-04CC-4FFA-84C6-368B036AB894::net7.0::T00.CleanArchMvc.Tests.ProductUnitTest1.CreateProduct_NegativeIdValue_DomainExceptionInvalidId&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E3EDBDC0-04CC-4FFA-84C6-368B036AB894::net7.0::T00.CleanArchMvc.Tests.ProductUnitTest1.CreateProduct_WithNullNameValue_DomainExceptionRequiredName&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E3EDBDC0-04CC-4FFA-84C6-368B036AB894::net7.0::T00.CleanArchMvc.Tests.ProductUnitTest1.CreateProduct_MissingNameValue_DomainExceptionRequiredName&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E3EDBDC0-04CC-4FFA-84C6-368B036AB894::net7.0::T00.CleanArchMvc.Tests.ProductUnitTest1.CreateProduct_ShortNameValue_DomainExceptionShortName&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E3EDBDC0-04CC-4FFA-84C6-368B036AB894::net7.0::T00.CleanArchMvc.Tests.ProductUnitTest1.CreateProduct_ShortDescriptionValue_DomainExceptionShortName&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E3EDBDC0-04CC-4FFA-84C6-368B036AB894::net7.0::T00.CleanArchMvc.Tests.ProductUnitTest1.CreateProduct_MissingDescriptionValue_DomainExceptionShortName&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E3EDBDC0-04CC-4FFA-84C6-368B036AB894::net7.0::T00.CleanArchMvc.Tests.ProductUnitTest1.CreateProduct_WithNullDescriptionValue_DomainExceptionShortName&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E3EDBDC0-04CC-4FFA-84C6-368B036AB894::net7.0::T00.CleanArchMvc.Tests.ProductUnitTest1.CreateProduct_LongImageNameValue_DomainExceptionLongImageName&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E3EDBDC0-04CC-4FFA-84C6-368B036AB894::net7.0::T00.CleanArchMvc.Tests.ProductUnitTest1.CreateProduct_WithNullDescriptionValue_DomainExceptionRequiredDescription&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E3EDBDC0-04CC-4FFA-84C6-368B036AB894::net7.0::T00.CleanArchMvc.Tests.ProductUnitTest1.CreateProduct_MissingDescriptionValue_DomainExceptionRequiredDescription&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E3EDBDC0-04CC-4FFA-84C6-368B036AB894::net7.0::T00.CleanArchMvc.Tests.ProductUnitTest1.CreateProduct_ShortDescriptionValue_DomainExceptionShortDescription&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E3EDBDC0-04CC-4FFA-84C6-368B036AB894::net7.0::T00.CleanArchMvc.Tests.ProductUnitTest1.CreateProduct_WithNullImageName_NoDomainException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E3EDBDC0-04CC-4FFA-84C6-368B036AB894::net7.0::T00.CleanArchMvc.Tests.ProductUnitTest1.CreateProduct_WithEmptyImageName_NoDomainException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E3EDBDC0-04CC-4FFA-84C6-368B036AB894::net7.0::T00.CleanArchMvc.Tests.ProductUnitTest1.CreateProduct_INvalidStockValue_ExceptionDomainNegativeValue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E3EDBDC0-04CC-4FFA-84C6-368B036AB894::net7.0::T00.CleanArchMvc.Tests.ProductUnitTest1.CreateProduct_INvalidPriceValue_ExceptionDomainNegativeValue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E3EDBDC0-04CC-4FFA-84C6-368B036AB894::net7.0::T00.CleanArchMvc.Tests.ProductUnitTest1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
